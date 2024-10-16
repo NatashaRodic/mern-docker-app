@@ -2,9 +2,9 @@
 
 </div>
 
-# Dockerizing the Application
+# Dockerizing the Application 🐳
 
-## This project is Dockerized, making it easy to build and run the application in a container.
+## This project is an example of a Dockerized MERN stack application, making it easy to build and run the application in a container.
 
  </div>
 
